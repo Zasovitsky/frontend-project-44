@@ -3,8 +3,6 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/c9e99ecfadea849545d0/maintainability)](https://codeclimate.com/github/Zasovitsky/frontend-project-44/maintainability)
 
-<a href="https://codeclimate.com/github/Zasovitsky/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/c9e99ecfadea849545d0/maintainability" /></a>
-
 <a href="https://asciinema.org/a/71ttpsWIZngOFefH6Xl5QGCdt" target="_blank"><img src="https://asciinema.org/a/71ttpsWIZngOFefH6Xl5QGCdt.svg" /></a>
 
 <a href="https://asciinema.org/a/eM5VutVgI1DVeWFV9otXKYSxj" target="_blank"><img src="https://asciinema.org/a/eM5VutVgI1DVeWFV9otXKYSxj.svg" /></a>
