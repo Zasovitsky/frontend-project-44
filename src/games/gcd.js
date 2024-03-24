@@ -1,7 +1,7 @@
 import runGameLogic from '../gameLogic.js';
 import { getRandomNumber } from '../tools.js';
 
-const description = 'Find the graetest common divisor of given numbers.';
+const description = 'Find the greatest common divisor of given numbers.';
 
 const getGcd = (number1, number2) => {
   if (number1 === 0) {
