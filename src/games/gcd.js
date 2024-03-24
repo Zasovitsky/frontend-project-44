@@ -18,12 +18,4 @@ const generateRound = () => {
   return [question, correctAnswer];
 };
 
-// const runGcdGame = () => {
-//   const rounds = [];
-//   for (let i = 0; i < roundsNumber; i += 1) {
-
-//   }
-
-// }
-
 export default () => runGameLogic(generateRound, description);
