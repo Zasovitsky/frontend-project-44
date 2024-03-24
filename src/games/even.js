@@ -7,12 +7,4 @@ const isEven = (number) => number % 2 === 0;
 
 const generateRound = () => generateRoundLogic(isEven);
 
-// const runEvenGame = () => {
-//   const rounds = [];
-//   for (let i = 0; i < roundsNumber; i+=1) {
-//     rounds[i] = generateRound();
-//   }
-//   return runGameLogic(rounds, description);
-// }
-
 export default () => runGameLogic(generateRound, description);
